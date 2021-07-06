@@ -3,7 +3,9 @@ Copyright (c)2021 SupplyChacha
 created by praveensingh
 
 
-To see the app in action, go to [SupplyChacha website](https://supplychacha.herokuapp.com/)
+To see the app in action, go to [SupplyChacha's website](https://supplychacha.herokuapp.com/)
+
+Please leave a review on any of the products if you like the website.
 
 ## Built with
 
