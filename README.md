@@ -5,10 +5,6 @@ created by praveensingh
 
 To see the app in action, go to [https://supplychacha.herokuapp.com/](https://supplychacha.herokuapp.com/)
 
-### Comments in code
-
-Some comments in the source code are course notes and therefore might not seem necessary from a developer's point of view.
-
 ## Built with
 
 ### Front-end
