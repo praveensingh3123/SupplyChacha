@@ -7,6 +7,22 @@ To see the app in action, go to [SupplyChacha's website](https://supplychacha.he
 
 Please leave a review on any of the products if you like the website.
 
+## Features
+
+- Full featured shopping cart
+- Product reviews and ratings
+- Top products carousel
+- Product pagination
+- Product search feature
+- User profile with orders
+- Admin product management
+- Admin user management
+- Admin Order details page
+- Mark orders as delivered option
+- Checkout process (shipping, payment method, etc)
+- PayPal / credit card integration
+- Database seeder (products & users)
+
 ## Built with
 
 ### Front-end
